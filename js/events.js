@@ -14,6 +14,10 @@ function pressIt() {
   });
 }
 
+function submitIt() {
+  
+}
+
 function frameIt() {
   
 }
@@ -22,6 +26,8 @@ $(document).ready(function(){
 
 // call functions here
 getIt();
+
+pressIt();
 
 });
 
