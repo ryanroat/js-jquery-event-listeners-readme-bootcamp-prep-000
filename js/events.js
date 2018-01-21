@@ -22,7 +22,7 @@ function submitIt() {
 
 function frameIt() {
   $('img').on('load', function () {
-    $('this')
+    $(this)
   })
   
 }
