@@ -6,6 +6,10 @@ function getIt() {
   });
 }
 
+function pressIt() {
+  
+}
+
 function frameIt() {
   
 }
@@ -16,3 +20,4 @@ $(document).ready(function(){
 getIt();
 
 });
+
