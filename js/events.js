@@ -15,7 +15,7 @@ function pressIt() {
 }
 
 function submitIt() {
-  
+  $('form').on()
 }
 
 function frameIt() {
