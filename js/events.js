@@ -31,5 +31,7 @@ getIt();
 
 pressIt();
 
+submitIt();
+
 });
 
